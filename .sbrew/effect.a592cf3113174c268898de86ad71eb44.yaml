@@ -1,0 +1,14 @@
+﻿FormatVersion: 6
+Name: "Title"
+Script: "Title"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  0da57d29c72c4897989374ddb2bbe817:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

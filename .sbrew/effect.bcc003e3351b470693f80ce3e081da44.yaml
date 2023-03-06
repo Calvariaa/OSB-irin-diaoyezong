@@ -1,0 +1,23 @@
+﻿FormatVersion: 6
+Name: "HitObjectHighlight"
+Script: "HitObjectHighlight"
+Config:
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeTime:
+    Type: "System.Int32"
+    Value: "200"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "0.4"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  b409af8ba3ca4cc0b59b966175e7bdd2:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

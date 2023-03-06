@@ -1,0 +1,23 @@
+﻿FormatVersion: 6
+Name: "Butterfly 1"
+Script: "Butterfly"
+Config:
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeTime:
+    Type: "System.Int32"
+    Value: "200"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "1"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  50d673cfb5b843588b7a487ec3e3f903:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
